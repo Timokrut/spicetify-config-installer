@@ -1,9 +1,9 @@
 My custom *spicetigy* config
 
-```Theme```: Ziro - rose-pine-moon
-```Addons```: adblockify | shuffle+ | lyrics+ | powerbar |css-editor
+```Theme```: ```Ziro - rose-pine-moon```
+```Addons```: ```adblockify``` | ```shuffle+``` | ```lyrics+``` | ```powerbar``` | ```css-editor```
 
-# Photos 🎥
+# Photos 📸
 
 🪟 WINDOWED
 
@@ -15,5 +15,5 @@ My custom *spicetigy* config
 
 ![alt text](screenshots/2024-08-14_05-21.png)
 
-![alt text](screenshots/2024-08-14_05-21.png)
+![alt text](screenshots/2024-08-14_05-21_1.png)
 
