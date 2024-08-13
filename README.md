@@ -1,26 +1,19 @@
-My custom spicetigy config
+My custom *spicetigy* config
 
-Photos:
+```Theme```: Ziro - rose-pine-moon
+```Addons```: adblockify | shuffle+ | lyrics+ | powerbar |css-editor
 
-WINDOWED
+# Photos 🎥
+
+🪟 WINDOWED
 
 ![alt text](screenshots/2024-08-14_05-25.png)
 
 ![alt text](screenshots/2024-08-14_05-25_1.png)
 
-FULLSCREEN:
+📺 FULLSCREEN:
 
 ![alt text](screenshots/2024-08-14_05-21.png)
 
 ![alt text](screenshots/2024-08-14_05-21.png)
 
-Theme: 
-Ziro - dark rose moon
-
-
-Addons:
-adblockify
-shuffle+
-lyrics+
-powerbar
-css-editor
