@@ -10,13 +10,13 @@ My custom *spicetigy* config
 
 🪟 WINDOWED
 
-![alt text](screenshots/2024-08-14_05-21.png)
+![alt text](screenshots/1.png)
 
-![alt text](screenshots/2024-08-14_05-25_1.png)
+![alt text](screenshots/2.png)
 
 📺 FULLSCREEN:
 
-![alt text](screenshots/2024-08-14_05-25.png)
+![alt text](screenshots/3.png)
 
-![alt text](screenshots/2024-08-14_05-25_1.png)
+![alt text](screenshots/4.png)
 
